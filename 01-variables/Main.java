@@ -8,9 +8,11 @@ public class Main {
 System.out.println(age);
 System.out.println(salary);
     System.out.println(name);
-    System.out.println(isActive);
+        System.out.println(isActive);     
 
-
-     
+        final double PI = 3.14159;
+        System.out.println(PI+ age);
+        
     }
+}
     
